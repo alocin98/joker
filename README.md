@@ -17,5 +17,9 @@
 #### Wir diskutieren weder über Knöpfe, noch über Schriftarten, sondern über eine Lösung
 #### Wir sprechen über Skallierung, wenn's nötig wird. Sonst hosten wir dein Ding auf unserem Raspi.
 
+### Was machen wir?
+Wir programmieren mit dir eine Lösung. Nennen wir es POC, oder MVP.
+Wir betreiben die Lösung 1 Jahr. Dann schauen wir gemeinsam wie weiter.
+
 #### 8'000 Franken und du hast eine Lösung
 #### Beschreibe deine Idee in 3 Sätzen
