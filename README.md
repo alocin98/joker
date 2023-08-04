@@ -18,3 +18,5 @@
 #### Wir sprechen über Skallierung, wenn's nötig wird. Sonst hosten wir dein Ding auf unserem Raspi.
 
 #### 8'000 Franken und du hast eine Lösung
+#### Beschreibe deine Idee in 3 Sätzen
+<input />
