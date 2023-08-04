@@ -17,11 +17,16 @@
 #### Wir diskutieren weder über Knöpfe, noch über Schriftarten, sondern über eine Lösung
 #### Wir sprechen über Skallierung, wenn's nötig wird. Sonst hosten wir dein Ding auf unserem Raspi.
 
+<br />
+<br />
+
 ### Was machen wir?
 Wir programmieren mit dir eine Lösung. Nennen wir es POC, oder MVP.<br />
 Wir betreiben die Lösung 1 Jahr.<br />
 Dann schauen wir gemeinsam wie weiter.
 
-#### 8'000 Franken und du hast eine Lösung
+<br />
+<br />
+
 #### Beschreibe deine Idee in 3 Sätzen
 --> Hier kommt ein Input Feld <--
