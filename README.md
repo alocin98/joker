@@ -14,3 +14,5 @@
 #### Wir sagen dir, wenn du besser ein Google Sheets machst anstatt eine responsive, performante, coole App
 #### Wir diskutieren weder über Knöpfe, noch über Schriftarten, sondern über eine Lösung
 #### Wir sprechen über Skallierung, wenn's nötig wird. Sonst hosten wir dein Ding auf unserem Raspi.
+
+#### 8'000 Franken und du hast eine Lösung
