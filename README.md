@@ -2,7 +2,7 @@
 <br />
 
 ### Nicht die Eintwickler, die du brauchst
-### Wir sind weder ein krasses startup, noch google 2.0
+### Wir sind weder ein krasses startup, noch Microspoft
 
 <br />
 <br />
