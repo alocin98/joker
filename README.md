@@ -19,7 +19,8 @@
 
 ### Was machen wir?
 Wir programmieren mit dir eine Lösung. Nennen wir es POC, oder MVP.<br />
-Wir betreiben die Lösung 1 Jahr. Dann schauen wir gemeinsam wie weiter.
+Wir betreiben die Lösung 1 Jahr.<br />
+Dann schauen wir gemeinsam wie weiter.
 
 #### 8'000 Franken und du hast eine Lösung
 #### Beschreibe deine Idee in 3 Sätzen
