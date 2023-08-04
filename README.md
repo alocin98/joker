@@ -2,10 +2,10 @@
 <br />
 
 ## Nicht die Eintwickler, die du brauchst
-<br />
-
 ## Wir sind weder ein krasses startup, noch ein innovatives designunternehmen
 
+<br />
+<br />
 
 ### Komm nicht zu uns, wenn du fertige Mockups hast
 ### Komm nicht zu uns, wenn du kein Budget hast
