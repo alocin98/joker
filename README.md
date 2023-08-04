@@ -24,3 +24,4 @@ Dann schauen wir gemeinsam wie weiter.
 
 #### 8'000 Franken und du hast eine Lösung
 #### Beschreibe deine Idee in 3 Sätzen
+--> Hier kommt ein Input Feld <--
